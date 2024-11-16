@@ -1,0 +1,500 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    width: 1350px;
+}
+.header{
+    background-color: #d9ab00;
+    height: 60px;
+    padding: 30px;
+}
+.logo{
+    float: left;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.menu ul{
+    list-style: none;
+}
+.items-1 a{
+    text-decoration: none;
+    color: white;
+    float: left;
+    margin-left: 50px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.items-2 a{
+    text-decoration: none;
+    color: white;
+    float: left;
+    font-size: 30px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.items-3 a{
+    text-decoration: none;
+    color: white;
+    float: left;
+    font-size: 30px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.items-4 a{
+    text-decoration: none;
+    color: white;
+    float: left;
+    font-size: 30px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.entrada{
+    background-color: #fbc301;
+    border: 0px;
+    padding: 10px;
+}
+.buscador{
+    margin-top: 0px;
+    margin-left: 60px;
+    float: left;
+}
+.lupa{
+    margin-top: 0;
+    width: 47px;
+}
+.texto-1{
+    float: left;
+    color: white;
+    margin-left: 350px;
+    padding-top: 100px;
+}
+.perro{
+    float: left;
+    padding-top: 50px;
+}
+.section-1{
+    background-color: #fbc302;
+    height: 500px;
+}
+.titulo-1{
+    font-size: 40px;
+    width: 400px;
+}
+.parrafo-1{
+    width: 320px;
+    font-size: 20px;
+}
+.boton-1{
+    font-weight: bold;
+    color: white;
+    border: 0px;
+    padding: 10px 20px 10px 20px;
+    margin-right: 20px;
+    background-color:#00bdc9;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.section-2{
+    padding-bottom: 30px;
+}
+.boton-2{
+    font-weight: bold;
+    color: white;
+    border: 1px solid white;
+    padding: 10px 20px 10px 20px;
+    margin-right: 20px;
+    background-color:#d9ab00;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.texto-2{
+    float: left;
+    margin-left: 350px;
+    padding-top: 100px;
+}
+.titulo-2{
+    width: 400px;
+    font-size: 40px;
+}
+.parrafo-2{
+    width: 300px;
+    font-size: 20px;
+}
+.perro-2{
+    padding-top: 70px;
+    }
+.boton-3{
+    font-weight: bold;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    background-color:#d9ab00;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.section-3{
+    background-color: #fbc301;
+    height: 600px;
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+}
+.parrafo-3{
+    font-size: 20px;
+    width: 500px;
+    padding-left: 410px;
+}
+.parte-1{
+    float: left;
+    text-align: center;
+    width: 200px;
+    margin: 5px;
+    margin-left: 350px;
+}
+.parrafo-a1{
+    font-size: 18px;
+}
+.parte-2{
+    float: left;
+    text-align: center;
+    width: 200px;
+    margin: 5px;
+}
+.parrafo-a2{
+    font-size: 18px;
+}
+.parte-3{
+    float: left;
+    text-align: center;
+    width: 200px;
+    margin: 5px;
+}
+.parrafo-a3{
+    font-size: 18px;
+}
+.section-4{
+    padding-top: 100px;
+    padding-left: 350px;
+    height: 400px;
+}
+.orejas{
+    float: left;
+    margin-right: 20px;
+}
+.texto-4{
+    float: left;
+    text-align: right;
+}
+.titulo-4{
+    width: 300px;
+}
+.parrafo-4{
+    width: 280px;
+    font-size: 18px;
+}
+.boton-4{
+font-weight: bold;
+color: white;
+border: 1px solid white;
+padding: 10px 20px 10px 20px;
+margin-right: 20px;
+background-color:#d9ab00;
+border-radius: 8px;
+cursor: pointer;
+}
+.section-5{
+    background-color: #fbc301;
+    height: 500px;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.texto-5{
+    text-align: center;
+    width: 300px;
+    margin-left: 520px;
+}
+.parrafo-5{
+    font-size: 18px;
+}
+.columna-1{
+    float: left;
+    text-align: center;
+    margin-left: 350px;
+}
+.buldog{
+    margin: 5px;
+}
+.descuento-1{
+    text-decoration: line-through;
+    font-size: 18px;
+}
+.precio-1{
+    font-size: 18px;
+}
+.boton-a1{
+    font-weight: bold;
+color: white;
+border: 1px solid #00bdc9;
+padding: 10px 20px 10px 20px;
+margin-right: 20px;
+background-color: #00bdc9;
+border-radius: 20px;
+cursor: pointer;
+margin-left: 20px;
+margin-top: 10px;
+}
+.columna-2{
+    float: left;
+    text-align: center;
+}
+.coli{
+    margin: 5px;
+}
+.descuento-2{
+    text-decoration: line-through;
+    font-size: 18px;
+}
+.precio-2{
+    font-size: 18px;
+}
+.boton-a2{
+    font-weight: bold;
+    color: white;
+    border: 1px solid #00bdc9;
+    padding: 10px 20px 10px 20px;
+    margin-right: 20px;
+    background-color: #00bdc9;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.columna-3{
+    float: left;
+    text-align: center;
+}
+.labrador{
+    margin: 5px;
+}
+.descuento-3{
+    text-decoration: line-through;
+    font-size: 18px;
+}
+.precio-3{
+    font-size: 18px;
+}
+.boton-a3{
+    font-weight: bold;
+    color: white;
+    border: 1px solid #00bdc9;
+    padding: 10px 20px 10px 20px;
+    margin-right: 20px;
+    background-color: #00bdc9;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.section-6{
+    text-align: center;
+    height: 550px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.parrafo-6{
+    width: 300px;
+    font-size: 18px;
+    margin-left: 525px;
+}
+.col1{
+    float: left;
+    margin: 5px;
+    margin-left: 350px;
+}
+.col2{
+    float: left;
+    margin: 5px;
+}
+.col3{
+    float: left;
+    margin: 5px;
+}
+.section-7{
+    background-image: url(imagenes/FondoPerro.png);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.color{
+    background-color: #fbc301;
+    height: 600px;
+    opacity: 0.7;
+    color: white;
+}
+.corazon{
+    float: left;
+    text-align: center;
+    margin-left: 280px;
+    margin-top: 180px;
+}
+.fonendo{
+    float: left;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 180px;
+}
+.inyeccion{
+    float: left;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 180px;
+}
+.numero-1{
+    font-size: 30px;
+}
+.numero-2{
+    font-size: 30px;
+}
+.numero-3{
+    font-size: 30px;
+}
+.service-1{
+    margin-top: -20px;
+}
+.service-2{
+    margin-top: -20px;
+}
+.service-3{
+    margin-top: -20px;
+}
+.section-8{
+    padding-top: 30px;
+    height: 800px;
+}
+.texto-8{
+    text-align: center;
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 50px;
+}
+.parrafo-8{
+    font-size: 20px;
+}
+.cuadro-1{
+    width: 300px;
+    float: left;
+    margin-left: 150px;
+    padding-bottom: 15px;
+    box-shadow: 2px 5px 70px 10px gray; 
+}
+.cuadro-2{
+    width: 300px;
+    float: left;
+    margin-left: 50px;
+    padding-bottom: 15px;
+    box-shadow: 2px 5px 70px 10px gray; 
+}
+.cuadro-3{
+    width: 300px;
+    float: left;
+    margin-left: 50px;
+    padding-bottom: 15px;
+    box-shadow: 2px 5px 70px 10px gray; 
+}
+.sub-1{
+    margin-left: 20px;
+}
+.sub-2{
+    margin-left: 20px;
+}
+.sub-3{
+    margin-left: 20px;
+}
+.fecha-1{
+    color: #00d1d9;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.fecha-2{
+    color: #00d1d9;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.fecha-3{
+    color: #00d1d9;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.enunciado-1{
+    width: 250px;
+    margin-left: 20px;
+}
+.enunciado-2{
+    width: 250px;
+    margin-left: 20px;
+}
+.enunciado-3{
+    width: 250px;
+    margin-left: 20px;
+}
+.link-1{
+    text-decoration: none;
+    color: #00d1d9;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.link-2{
+    text-decoration: none;
+    color: #00d1d9;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.link-3{
+    text-decoration: none;
+    color: #00d1d9;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.section-9{
+    height: 400px;
+    background-color: #333333;
+    color: white;
+    padding-top: 50px;
+    padding-right: 250px;
+}
+.lista-1{
+    float: left;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.lista-2{
+    float: left;
+}
+.texto-9{
+    text-align: right;
+}
+.buscador-2{
+    float: left;
+    padding-left: 367px;
+}
+.enviar{
+    text-align: right;
+}
+.entrada-2{
+    background-color: #fbc301;
+    border: 0px;
+    padding: 10px;
+}
+ul li{
+    list-style: none;
+    font-size: 17px;
+    margin: 10px;
+}
+.redes-2{
+    text-align: right;
+    padding-top: 20px;
+}
